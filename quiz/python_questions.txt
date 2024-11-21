@@ -1,0 +1,20 @@
+What is Python?,A programming language,An animal,A fruit,A programming language
+Which keyword is used to define a function?,def,class,func,def
+What does `len()` do?,Calculates length,Checks type,Prints value,Calculates length
+Which operator is used for exponentiation in Python?,**,^,*,**
+Which function is used to output text in Python?,print(),input(),write(),print()
+What is the output of `3 + 2 * 2`?,7,10,12,7
+Which data type is immutable in Python?,List,Tuple,Dictionary,Tuple
+How do you start a comment in Python?,#,//,<!--,# 
+Which loop is used when the number of iterations is unknown?,while,for,do-while,while
+What is the result of `10 % 3`?,1,0,3,1
+Which keyword is used to handle exceptions?,try,catch,throw,try
+What does `import` do in Python?,Imports a module,Imports a file,Imports a library,Imports a module
+What is the default value of a Boolean variable in Python?,False,True,None,False
+Which function is used to convert a string into an integer?,int(),str(),float(),int()
+What is the output of `len([1, 2, 3])`?,3,2,1,3
+Which of these is a valid variable name in Python?,my_var,2var,my-var,my_var
+How do you add an element to a list?,append(),add(),insert(),append()
+What is the output of `bool(0)`?,False,True,None,False
+Which function is used to read user input?,input(),read(),scanf(),input()
+What is the result of `5 == 5 and 5 > 2`?,True,False,None,True
